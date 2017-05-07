@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FriendsNotebook</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_friends_little_problem_occurred">出了点小问题</string>
+    <string name="menu_create">创建</string>
+    <string name="name">姓名</string>
+    <string name="phone_number">手机号</string>
+    <string name="expression">印象</string>
+    <string name="github_url">github地址</string>
+    <string name="fragment_create_friend_create_failure">创建失败</string>
+</resources>
